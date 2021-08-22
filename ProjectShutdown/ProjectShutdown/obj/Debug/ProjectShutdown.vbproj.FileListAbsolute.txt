@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\bin\Debug\ProjectShutdown.exe.config
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\bin\Debug\ProjectShutdown.exe
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\bin\Debug\ProjectShutdown.pdb
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\bin\Debug\ProjectShutdown.xml
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.vbprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.Form1.resources
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.Resources.resources
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.exe
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.xml
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.pdb
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\bin\Debug\ProjectShutdown.exe.manifest
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\bin\Debug\ProjectShutdown.application
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.exe.manifest
+C:\Users\LENOVO\source\repos\ProjectShutdown\ProjectShutdown\obj\Debug\ProjectShutdown.application
